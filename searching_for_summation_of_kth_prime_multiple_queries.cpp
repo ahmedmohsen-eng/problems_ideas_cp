@@ -224,8 +224,8 @@ void solve(){
     
     //now all needed is only a customized lowerbound function!!!
     
-    
-    for(auto&p:ans)cerr<<p.first<<' '<<p.second<<'\n';
+    //dbg
+    //for(auto&p:ans)cerr<<p.first<<' '<<p.second<<'\n';
     
     int ttt;cin>>ttt;
     while(ttt--){
