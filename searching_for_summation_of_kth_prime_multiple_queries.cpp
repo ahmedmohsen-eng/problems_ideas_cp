@@ -222,7 +222,7 @@ void solve(){
         if(i) ans[i].second+=ans[i-1].second;//precompute prefix sums
     }
     
-    //now all needed is only a customized lowerbound function!!!
+    //now all needed is only a customized binary search function!!!
     
     //dbg
     //for(auto&p:ans)cerr<<p.first<<' '<<p.second<<'\n';
