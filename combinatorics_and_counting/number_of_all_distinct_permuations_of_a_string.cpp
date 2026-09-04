@@ -1,3 +1,7 @@
+//number_of_all_distinct_permuations_of_a_string
+
+//for example : permutations of aab is : aab , aba , baa only 6!/2!=3   // ans = all! / sumof(repeated!)
+
 #include <bits/stdc++.h>
 using namespace std;
 
